@@ -1,0 +1,21 @@
+.mystyle{
+    color:saddlebrown;
+    border: 2px solid rgba(rgb(189, 173, 173), rgb(113, 153, 113), rgb(73, 73, 100), alpha);
+    border-radius: 2%;
+    margin-bottom: 5%;
+    text-align: center;
+    width: 70%;
+    padding: 10px;
+    box-shadow: 3px 3px whitesmoke, -1em 0 .4em whitesmoke;
+
+}
+#display-info{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.countresdetails{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
